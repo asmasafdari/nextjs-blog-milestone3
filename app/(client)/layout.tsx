@@ -9,17 +9,17 @@ const firaCode = Fira_Code({ subsets: ["latin"] });
 export const metadata: Metadata = {
   metadataBase: new URL("https://next-cms-blog-ce.vercel.app/"),
   title: {
-    default: "Sam Blogs - A blog for developers",
-    template: '%s | Sam Blogs - A blog for developers'
+    default: "AsmaProject - A blog for developers",
+    template: '%s | AsmaProject - A blog for developers'
   },
   description: "A blog for developers by developers!",
   openGraph: {
-    title: "Sam Blogs - A blog for developers",
+    title: "AsmaProject - A blog for developers",
     description: "A blog for developers by developers!",
     type: "website",
     locale: "en_US",
     url: "https://next-cms-blog-ce.vercel.app/",
-    siteName: "SamBlogs"
+    siteName: "AsmaProject"
   },
 };
 

@@ -11,8 +11,8 @@ const Navbar = () => {
       <div className="flex justify-between items-center h-16 w-full">
         <Link href="/">
           <div className={`${font.className} text-3xl dark:text-amber-50`}>
-            Sam
-            <span className="text-purple-500">Blogs</span>
+            Asma
+            <span className="text-purple-500">Project</span>
           </div>
         </Link>
         <ThemeSwitch />
